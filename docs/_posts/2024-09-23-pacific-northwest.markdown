@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "11 Days Exploring the Pacific Northwest: Seattle, Victoria, Vancouver"
+title:  "11 Days in the Pacific Northwest: Seattle, Victoria, Vancouver"
 date:   2024-09-23 11:30 -0700
 categories: travel
 ---
@@ -21,6 +21,9 @@ Catch-up with an Old Coworker: Spent time with my former coworker and his family
 * Hike: Hiked part of the Skyline loop and returned via the Alta Vista trail, covering around 5-6 miles. The Alta Vista trail was our favorite part—absolutely beautiful.
 * Lunch: Chili dog at the visitor center post-hike hit the spot.
 * Dinner: Had a delicious Seolleongtang (ox bone soup) at Yi's Traditional Korean Beef Soup to end the day.
+
+![Mt. Rainier](/assets/images/2024-09-23-pacific-northwest/mt-rainier-1.jpeg){: height="400" }
+![Mt. Rainier](/assets/images/2024-09-23-pacific-northwest/mt-rainier-2.jpeg){: height="400" }
 
 **Monday: Classic Seattle Tourist Day**
 * Pike Place Market: Bought a gorgeous bouquet of flowers.
@@ -113,4 +116,4 @@ Not included: gifts, meals, misc shopping
 This trip across Seattle, Victoria, and Vancouver was filled with hiking, city exploration, and incredible food. Each city offered something unique, and I managed to balance fun with affordability. From Seattle's dynamic neighborhoods to Victoria's serene gardens, and finally to Vancouver's foodie spots and outdoor adventures, this trip was a memorable journey through the Pacific Northwest!
 
 
-**AI transparency:** I inputted my messey, bullet-pointed notes and itinerary into ChatGPT with the following prompt: "write this into an easy-to-read and organized blog post" then edited the structure to fit my voice, fix inaccuracies, and add more personal experiences.
+*AI transparency:* I inputted my messy, bullet-pointed notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then edited the output to fix inaccuracies and write in my own voice.
