@@ -21,6 +21,7 @@
 title: Iris Gau
 email: iris.gau219@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  I'm building this site using Github Pages and Jekyll. It's a work in progress, but please poke around!
 domain: irisgau.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://irisgau.com" # the base hostname & protocol for your site, e.g. http://example.com
