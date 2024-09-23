@@ -16,7 +16,3 @@ I'm a former software engineer on the search for meaning within and beyond work.
 I find it wild that you're here reading this!
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/irisgau/) :)
-
-~~~
-
-I'm building this site using [Github Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/). It's a work in progress, but please poke around!
