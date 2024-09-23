@@ -2,7 +2,7 @@
 layout: post
 title:  "What is in a personal website?"
 date:   2024-09-22 22:29:33 -0700
-categories: jekyll update
+categories: thoughts
 ---
 
 I've owned and paid for this domain for the last four years, every now and then returning to the question of what should be done with it... Suddenly, on the exact one-year anniversary of leaving my software job, I had an itch to put something together. So here we are! 
