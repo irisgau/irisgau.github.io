@@ -5,37 +5,7 @@ date:   2024-09-23 11:30 -0700
 categories: travel
 ---
 
-# Itinerary:
-* Seattle: 5 nights
-* Victoria: 2 nights
-* Vancouver 3 nights
-
-# Main costs:
-
-| Travel | Cost (USD) |
-| ----------- | ----------- |
-| Flight from Santa Barbara to Seattle | 15k miles, plus $5.60 |
-| Ferry from Seattle to Victoria | $102.70 | 
-| Ferry from Victoria to Vancouver  | $14.08 |
-| Flight from Vancouver to Santa Barbara | 11.1k miles, plus $55.43|
-| Victoria Hostel (2 nights)  | $159.74 |
-| Travel Insurance  | $30 |
-| Seattle public transit | $18 |
-| Victoria public transit | $7.38 |
-| Vancouver public transit | $18.66 |
-| 3 Ubers (3 in total) | 57.21 |
-
-| Entertainment | Cost (USD) |
-| ----------- | ----------- |
-| Seattle Underground Tour | $22 |
-| Butchart Gardens Entry | $30.60 |
-| Royal BC Museum Entry | 22.08 |
-
-**Total: $543.48**
-
-Not included: gifts, meals, misc shopping
-
-# Seattle: A Mix of Food, Friends, and Adventure
+# Seattle (5 days): Food, Friends, and Adventure
 
 **Friday:**
 * Lunch at Ginger & Scallion: I started the trip with a fantastic chicken rice meal at Ginger & Scallion. Highly recommend!
@@ -67,7 +37,7 @@ Catch-up with an Old Coworker: Spent time with my former coworker and his family
 **Wednesday: Ferry Ride to Victoria**
 * Morning Ferry: Enjoyed the scenic ride as I made my way to Canada.
 
-# Victoria: Gardens, Museums, and City Charm
+# Victoria (2 days): Gardens, Museums, and City Charm
 
 **Wednesday: Arrival in Victoria**
 * Immigration Hiccup: A bit of a negative encounter with the officer, but I made it through.
@@ -86,7 +56,7 @@ Catch-up with an Old Coworker: Spent time with my former coworker and his family
 * Morning: Grabbed a yummy sandwich near the hostel before catching the 70 bus. Not the most comfortable ride with luggage, but it worked.
 * Ferry Ride: Off to Vancouver!
 
-# Vancouver: Foodie Paradise and Outdoor Fun
+# Vancouver (4 days): Foodie Paradise and Outdoor Fun
 
 **Friday: Travel Day**
 * Transit: The journey from Victoria to Vancouver took about 7 hours but was surprisingly smooth and affordable.
@@ -110,7 +80,37 @@ Catch-up with an Old Coworker: Spent time with my former coworker and his family
 * Lunch: Had a Montreal smoked meat bagel sandwich at Siegel’s Bagels—delicious!
 * Kitsilano Beach Park: Finished the trip with a peaceful walk along the beach before heading to the airport.
 
-Overall thoughts: This trip across Seattle, Victoria, and Vancouver was filled with hiking, city exploration, and incredible food. Each city offered something unique, and I managed to balance fun with affordability. From Seattle's dynamic neighborhoods to Victoria's serene gardens, and finally to Vancouver's foodie spots and outdoor adventures, this trip was a memorable journey through the Pacific Northwest!
+
+# Main costs
+
+| Travel | Cost (USD) |
+| ----------- | ----------- |
+| Flight from Santa Barbara to Seattle | 15k miles, plus $5.60 |
+| Ferry from Seattle to Victoria | $102.70 | 
+| Ferry from Victoria to Vancouver  | $14.08 |
+| Flight from Vancouver to Santa Barbara | 11.1k miles, plus $55.43|
+| Victoria Hostel (2 nights)  | $159.74 |
+| Travel Insurance  | $30 |
+| Seattle public transit | $18 |
+| Victoria public transit | $7.38 |
+| Vancouver public transit | $18.66 |
+| Ubers (3 in total) | $57.21 |
+
+| Entertainment | Cost (USD) |
+| ----------- | ----------- |
+| Seattle Underground Tour | $22 |
+| Butchart Gardens Entry | $30.60 |
+| Royal BC Museum Entry | 22.08 |
+
+Not included: gifts, meals, misc shopping
+
+**Total: $543.48**
 
 
-AI transparency: I inputted my messey, bullet-pointed notes and itinerary into ChatGPT with the following prompt: "write this into an easy-to-read and organized blog post" then edited the structure to fit my voice, fix inaccuracies, and add more personal experiences.
+
+# Overall thoughts
+
+This trip across Seattle, Victoria, and Vancouver was filled with hiking, city exploration, and incredible food. Each city offered something unique, and I managed to balance fun with affordability. From Seattle's dynamic neighborhoods to Victoria's serene gardens, and finally to Vancouver's foodie spots and outdoor adventures, this trip was a memorable journey through the Pacific Northwest!
+
+
+**AI transparency:** I inputted my messey, bullet-pointed notes and itinerary into ChatGPT with the following prompt: "write this into an easy-to-read and organized blog post" then edited the structure to fit my voice, fix inaccuracies, and add more personal experiences.
