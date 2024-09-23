@@ -9,7 +9,7 @@ I've owned and paid for this domain for the last four years, every now and then 
 
 I'm still contemplating whether my personal site has a purpose. Is it for my career? A home for my resume? To document my travels? My random hobbies and pursuits?
 
-I do not have the answer, but for now, this is a little personal project that I will work on from the mindset of it being truly for myself, and, well, personal.
+For now, this is just a fun little project that I'll let take its own form.
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
