@@ -9,13 +9,12 @@ layout: home
 
 I find joy traveling, dancing, and learning new things. I find peace being near the water, cooking, and fostering cats. I love to learn about language, cultures, and how people think.
 
+I'm excited you're here! Poke around and [connect with me](https://www.linkedin.com/in/irisgau/) if you'd like to know more.
+
 <br>
 ![Mt. Rainier](/assets/images/about/me-1.jpeg){: height="243" }
 ![Mt. Rainier](/assets/images/about/me-2.jpeg){: height="243" }
 ![Mt. Rainier](/assets/images/about/me-3.jpeg){: height="243" }
-
-<br>
-
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
