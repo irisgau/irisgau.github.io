@@ -7,14 +7,17 @@ layout: home
 
 👋 My name is Iris!
 
-I find joy in travel, swing dance, and a good laugh. 
+I find joy in traveling, dancing, and learning new things.
 
-I find peace in cooking, walking, and fostering cats. 
+I find peace in cooking, fostering cats, and being in the mountains or near the water.
 
-I'm a former software engineer on the search for meaning within and beyond work.
+I love learning about language, cultures, and how people think.
 
 
 [Connect](https://www.linkedin.com/in/irisgau/) with me to learn more :)
+
+{% include image-gallery.html folder="/assets/images/about" %}
+
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
