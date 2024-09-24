@@ -7,9 +7,7 @@ layout: home
 
 👋 My name is Iris!
 
-I find joy traveling, dancing, and learning new things. I find peace cooking, fostering cats, and being near the water. I love to learn about language, cultures, and how people think.
-
-Feel free to [connect](https://www.linkedin.com/in/irisgau/) with me!
+I find joy traveling, dancing, and learning new things. I find peace being near the water, cooking, and fostering cats. I love to learn about language, cultures, and how people think.
 
 <br>
 ![Mt. Rainier](/assets/images/about/me-1.jpeg){: height="243" }
