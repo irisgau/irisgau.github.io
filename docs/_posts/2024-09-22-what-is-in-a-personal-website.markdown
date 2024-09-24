@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is in a personal website?"
-date:   2024-09-22 22:29:33 -0700
+date:   2024-09-22
 categories: thoughts
 ---
 
