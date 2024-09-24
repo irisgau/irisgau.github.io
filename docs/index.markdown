@@ -12,9 +12,9 @@ I find joy traveling, dancing, and learning new things. I find peace cooking, fo
 Feel free to [connect](https://www.linkedin.com/in/irisgau/) with me!
 
 <br>
-![Mt. Rainier](/assets/images/about/me-2.jpeg){: height="244" }
-![Mt. Rainier](/assets/images/about/me-3.jpeg){: height="244" }
-![Mt. Rainier](/assets/images/about/me-1.jpeg){: height="244" }
+![Mt. Rainier](/assets/images/about/me-1.jpeg){: height="243" }
+![Mt. Rainier](/assets/images/about/me-2.jpeg){: height="243" }
+![Mt. Rainier](/assets/images/about/me-3.jpeg){: height="243" }
 
 <br>
 
