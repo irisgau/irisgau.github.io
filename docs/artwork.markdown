@@ -9,5 +9,5 @@ permalink: /artwork/
 # Paint
 {% include image-gallery.html folder="/assets/images/artwork/paint" %}
 
-# Pencil
+# Pen & Pencil
 {% include image-gallery.html folder="/assets/images/artwork/pencil" %}
