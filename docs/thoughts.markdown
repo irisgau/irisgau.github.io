@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thoughts
+# title: Thoughts # hide for now
 permalink: /thoughts/
 ---
 
