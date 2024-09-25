@@ -25,12 +25,12 @@ categories: travel
 
 **Friday: Arrival**
 * Arrival: I immediately noticed the diversity around me at the airport - so many different people and languages. A convenient 40 minute light rail ride later, I was already in the city.
-* Dinner: After meeting with my friend hosting me, we went to [Ginger & Scallion](https://maps.app.goo.gl/Qcgmcxf2Dfg27Pvr6). Cucumber salad was skippable (good but nothing special), chicken wings were great, and hainanese chicken rice was the star of the show.
+* Dinner: After meeting with the friend hosting me, we went to [Ginger & Scallion](https://maps.app.goo.gl/Qcgmcxf2Dfg27Pvr6). Cucumber salad was skippable (good but nothing special), chicken wings were great, and hainanese chicken rice was the star of the show.
 
 **Saturday: First Full Day**
-* Brunch: Classic dimsum at [Harbor City Restaurant](https://maps.app.goo.gl/XzMyyi9RqqnMnx2R8), and a fun time meeting my friend's friends.
+* Brunch: Dimsum at [Harbor City Restaurant](https://maps.app.goo.gl/XzMyyi9RqqnMnx2R8), and a fun time meeting my friend's friends.
 * REI: Bought some gear for our upcoming hike. The flagship store was huge and quite beautiful.
-* Catch-up: Met up with my former coworker and his family at an indoor kids' playground, then grabbed a quick dinner at [Café Hagen](https://maps.app.goo.gl/oZLkCwTYP3EwZ3rH8). It was lovely to meet his family for the first time, after working together remotely through the pandemic.
+* Catch-up: Met up with my former coworker and his family at an indoor kids' playground, then grabbed a quick dinner at [Café Hagen](https://maps.app.goo.gl/oZLkCwTYP3EwZ3rH8). It was lovely to meet his family for the first time, after working together remotely for many years through the pandemic.
 * Evening: Took a fun little [swing dance class](https://www.swingdancesct.com/) in Fremont.
 
 **Sunday: Mt. Rainier**
@@ -45,7 +45,7 @@ categories: travel
 **Monday: Tourist Day**
 * Pike Place Market: Walked around the market and window-shopped in the area.
 * [Bill Speidel's Underground Tour](http://www.undergroundtour.com/): Fun and educational. Learned that Seattle was built one story up due to a history of flooding.
-* Dinner: Met with an old friend who I interned with, who shared about his experience in Seattle for the past several years. Walking around downtown in the evening felt safer than I expected.
+* Dinner: Met with an old friend who shared about his experience in Seattle for the past several years. Walking around downtown in the evening felt safer than I expected.
 
 **Tuesday: Neighborhood Hopping**
 * Queen Anne: Stopped by Kerrie Park for an amazing view of the city and Mt. Rainier.
@@ -61,17 +61,17 @@ categories: travel
 **Wednesday: Arrival in Victoria**
 * Immigration: A negative encounter with the officer who mansplained me on the dangers of staying in a hostel amongst other things, but I made it through.
 * Transit: Chose Uber over the bus after the officer warned me I was going to "the most dangerous part of the city", but had a lovely driver who assured me I'd be be safe. Also, the area was totally fine. Houseless people were simply trying to exist nearby.
-* Got my steps in: Checked out thrift shops around [Ocean Island Hostel](https://www.oceanisland.com/). Strolled through the scenic inner harbor and the Legislative Assembly. Saw a peacock in Beacon Hill Park. Walked to Chinatown, with many historic buildings, restaurants, and cute shops.
+* Got my steps in: After dropping my luggage off at [Ocean Island Hostel](https://www.oceanisland.com/), checked out thrift shops nearby. Strolled through the scenic inner harbor and the Legislative Assembly. Saw a peacock in Beacon Hill Park. Walked to Chinatown, with many restaurants, shops, and historic buildings.
 * Dinner: Enjoyed dinner at the hostel and had a nice chat with a traveler from Calgary named Owen. We talked about Canadian and American differences and urban planning.
 
 **Thursday: A Full Day in Victoria**
-* Butchart Gardens: A convenient hour long bus dropped me off directly at the gardens. The gardens were absolutely stunning. I spent a few hours here and ate lunch at their coffee shop.
+* Butchart Gardens: A convenient hour-long bus dropped me off at the gardens. The gardens were absolutely stunning. I spent a few hours here and ate lunch at their coffee shop.
 * Royal BC Museum: An extensive and well-done exhibit on Stongehenge. A security guard named Sam gave me a personal tour of his favorite parts of the Old Town exhibit. He shared that he's originally from Venezuala and just received his permanent residency, after 5 years in Canada. Interactions like this make me believe in humanity.
-* Evening: Caught live music, ate poutine from a food truck, and saw the lights of the Legislative Building. Worth returning to the area. The folks at the food truck gave me an extra serving after finding out it was my first time in Canada and eating poutine. I'm officially on team poutine.
+* Poutine: Caught live music and ate poutine from a food truck at the marina. The folks gave me an extra serving after finding out it was my first time in Canada and eating poutine. I'm officially on team poutine. 
+* Evening: The lights of the Legislative Building were worth going back for after dark. 
 
 **Friday: Ferry to Vancouver**
-* Morning: Grabbed a sandwich near the hostel at [Macchiato Caffe](https://maps.app.goo.gl/FghQJe95Qavvs53y7), very yummy.
-* Bus ride: Took a bus one hour north to the Swartz Ferry terminal.
+* Morning: Grabbed a sandwich near the hostel at [Macchiato Caffe](https://maps.app.goo.gl/FghQJe95Qavvs53y7). Many options, and very yummy.
 * Ferry Ride: Off to Vancouver!
 
 # Vancouver (4 days)
@@ -84,11 +84,11 @@ categories: travel
   * 1 hr bus ride to metro station (without traffic, 35 min) →
   * 20 min metro ride →
   * 15 min walk to final destination
-* I was in no rush and I don't mind idly waiting, in favor of utilizing public transit, so this was no problem for me. However, the bus ride from the ferry into the city was very squished with everyone's suitcases on board.
-* Dinner: After meeting up with my friend hosting, we ate at [Tozen Sushi Bar](https://maps.app.goo.gl/x94N72Cw9fdiEsM78), which was possibly the best Japanese food I’ve ever had in North America. Every dish was perfection. My favorite was the salmon aburi hako and creamy udon.
+* I was in no rush and am in favor of utilizing public transit, so this was no problem for me. However, the bus ride from the ferry terminal into Vancouver was very squished with everyone's suitcases on board.
+* Dinner: After meeting up with the friend hosting me, we ate at [Tozen Sushi Bar](https://maps.app.goo.gl/x94N72Cw9fdiEsM78), which was possibly the best Japanese food I’ve ever had in North America. Every dish was perfection. My favorite was the salmon aburi hako (hakozushi = a type of sushi made by filling a square wooden box with sushi rice) and creamy udon.
 
 **Saturday: Exploring Granville Island**
-* Brunch at [Yolks](https://maps.app.goo.gl/9bCqX8Yuk9sWcnB56): Met my friend's friend, and we started the day with a stroll around City Square Shopping Centre and eggs benedict. I loved chatting about Canadian and American politics, similarities, and differences.
+* Brunch: Met my friend's friend, and we started the day with a stroll around City Square Shopping Centre followed by eggs benedict at [Yolks](https://maps.app.goo.gl/9bCqX8Yuk9sWcnB56). I loved chatting about Canadian and American politics, similarities, and differences.
 * Granville Island: Shopped at the public market. Donuts from [Lee's](https://maps.app.goo.gl/uos31LhRCMqoAkuZ6) were pretty darn good.
 * Robson Street: Window shopped vintage stores, k-pop albums, and the world's largest Aritzia.
 * Dinner: Tsukemen at [Menya ITTO](https://maps.app.goo.gl/SDi1LXYUAeNtWxNw6) was rich and delicious. I've had a hard time finding Tsukemen in the Bay Area, and was so pleased with this meal.
@@ -168,7 +168,7 @@ Not included: gifts, meals, shopping
 
 I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver.  I also loved learning about Canadian history and politics. 
 
-I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships, see their day to day lives, and meet their friends.
+I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships and see my friends' day to day lives.
 
 I visited Seattle to see if I can imagine living there, and I definitely can. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
 
