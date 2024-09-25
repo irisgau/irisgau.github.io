@@ -68,6 +68,8 @@ categories: travel
 ***Public Transit***
 * The city doesn't use physical transit cards. Rather, they use an app called "Umo". You must load at least $5 at a time, which is a bit of poor design for short trips.
 * You scan the app QR code when you enter a bus. Generally it worked well, but one time was not able to scan for me and others behind me. The bus driver was kind and let us on anyways. 
+* Very easy to get to Butchart Garden via the 75 bus, ~45 minute ride.
+* Very easy to get to Swartz Ferry via the 70 bus, ~1 hour ride.
 
 ***Accomodations***
 * I stayed at [Ocean Island Hostel](https://www.oceanisland.com/) in a private double room. Hotels were out of my budge and Airbnbs were outside of the walkable downtown area.
@@ -80,7 +82,14 @@ categories: travel
 # Vancouver (4 days): Foodie Paradise and Outdoor Fun
 
 **Friday: Travel Day**
-* Transit: The journey from Victoria to Vancouver took about 7 hours in total but was smooth and very affordable (read more below in "public transit" section). I was in no rush and I don't mind idly waiting, in favor of utilizing public transit, so this was no problem for me. However, the bus ride from the ferry into the city was very squished with everyone's suitcases on board.
+* Transit: The journey from Victoria to Vancouver took about ~6 hours in total via public transit including wait time, but was very smooth and affordable. Read more below in "public transit" section.
+  * 1 hr bus from hostel to victoria ferry → 
+  * 1 hr wait at ferry because one of their boats was out of service →
+  * 1.5 hr ferry ride →
+  * 1 hr bus with traffic from vancouver ferry terminal to metro station (should have been 35 min) →
+  * 20 min metro to get into city center →
+  * 15 min walk to final destination
+* I was in no rush and I don't mind idly waiting, in favor of utilizing public transit, so this was no problem for me. However, the bus ride from the ferry into the city was very squished with everyone's suitcases on board.
 * Dinner: After meeting up with my friend who hosted me, we ate at [Tozen Sushi Bar](https://maps.app.goo.gl/x94N72Cw9fdiEsM78), which had possibly the best sushi I’ve ever had in North America. Every dish was perfection. My favorite was the salmon aburi hako and creamy udon.
 
 **Saturday: Exploring Granville Island**
@@ -91,7 +100,7 @@ categories: travel
 
 **Sunday: Biking Stanley Park**
 * Bike Ride: A beautiful ride around Stanley Park. The views were breathtaking. Hands down one of my favorite parts of the trip! Took a couple hours to slowly make our way around the park, with several stops. I did not ride bikes as a kid, so I was a bit nervous, but the bike path was wide and flat.
-* Dinner: Wrapped up the day with Korean food at [Sura]https://maps.app.goo.gl/D3GrbXPeeSURRmdD8 — delicious galbi tang.
+* Dinner: Wrapped up the day with Korean food at [Sura](https://maps.app.goo.gl/D3GrbXPeeSURRmdD8) — delicious galbi tang.
 * Downtown: Helped my friend browse furniture downtown, and thrifted at [Value Village Boutique](https://maps.app.goo.gl/eQeDV8h4vW4hKpG68) which had a huge selection.
 
 **Monday: Last Day in Vancouver**
@@ -100,6 +109,14 @@ categories: travel
 * Museum of Vancouver: Learned about the city's history and culture.
 * Lunch: Had a Montreal smoked meat bagel sandwich at [Siegel’s Bagels](https://maps.app.goo.gl/drNuCJyR37ue9Sh59) - nothing super special, but delicious!
 * Kitsilano Beach Park: Finished the trip with a peaceful walk along the beach before heading to the airport.
+
+**Public Transit**
+* By far the easiest transit system of the whole trip. You can get a Compass Card, or simply use any tap payment option (Apple Pay, credit card, etc.)
+* Transit from Twassawen Ferry terminal into the city was a short journey:
+  * 35 minute bus ride via the 620 (Bridgeport Express) to Bridgeport Station. However, traffic made this closer to an hour.
+  * 20 minute train ride on the Canada Line from Bridgeport Station
+  * 15 minute walk (or short bus ride) to final destination
+* Transit from city center to the airport was astonishingly quick and easy. Just hopped on the Canada Line, straight to the airport.
 
 # Main costs
 
