@@ -168,7 +168,7 @@ Not included: gifts, meals, shopping
 
 I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver.  I also loved learning about Canadian history and politics. 
 
-I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships and see my friends' day to day lives. 
+I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships, see their day to day lives, and meet their friends.
 
 I visited Seattle to see if I can imagine living there, and I definitely can. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
 
