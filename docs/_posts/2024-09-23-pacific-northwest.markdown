@@ -167,6 +167,11 @@ Not included: gifts, meals, shopping
 
 # Overall thoughts
 
-I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver. I am grateful for the relationships I have formed over the years, that led to friends generously hosting me, and many catch-ups along this trip. It was also special to grow these friendships and learn about my friends' lives. I visited Seattle to see if I can imagine living myself there, and I definitely can. I also loved learning more about Canadian history and politics. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
+I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver.  I also loved learning about Canadian history and politics. 
 
-*AI transparency:* I inputted my bullet-pointed notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then edited the output heavily to change content, add details, and write in my own voice.
+I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along this trip. It was special to grow these friendships and see my friends' lives. 
+
+I visited Seattle to see if I can imagine living myself there, and I definitely can. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
+
+<br>
+*AI transparency:* I inputted my bullet-pointed notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then heavily edited the output to change content, add details, and write in my own voice.
