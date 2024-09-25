@@ -108,36 +108,35 @@ categories: travel
 
 # Public Transit
 #### Seattle
-* I initially downloaded the "Transit Go" app to buy a mobile ticket for the link light rail. It was good I did, because I missed where to tap my orca card before boarding the train, and transit workers later checked for tickets. 
+* I initially downloaded the "Transit Go" app to buy a mobile ticket for the link light rail from the airport into the city. It was good I did, because I missed where to tap my Orca card before boarding the train, and transit workers later checked for tickets. 
 * I also got an Orca card in case there were issues with the Transit Go app. I used the "Orca" app to load my card, but you can also load it at metro stations. 
-* With the Orca app, you can get a $6 day pass to ride any transit in the city. The "Transit Go" does not allow you to buy a day pass that works across different transit modes (bus, light rail, etc.)
+* With the Orca app, you can get a $6 day pass to ride any transit in the city. The Transit Go app's day passes do not works across different transit modes (bus, light rail, etc.)
 
 
 #### Victoria
-* The city doesn't use physical transit cards. Rather, they use an app called "Umo". You must load at least $5 at a time, which is a poor design because a tourist is likely to have a leftover balance.
+* The city doesn't use physical transit cards. Rather, they use an app called "Umo". You must load at least $5 at a time (a poor design because visitors are likely to have a leftover balance)
 * You scan the app QR code when you enter a bus. Generally it worked well, but was not able to scan for me once. The bus driver let me board anyways. 
 * Very easy to get to Butchart Garden via the 75 bus, ~45 minute ride.
 * Very easy to get to Swartz Ferry via the 70 bus, ~1 hour ride.
 
 #### Vancouver
-* By far the easiest transit system of the whole trip.
-* You can get a Compass Card, or simply use any tap payment option (Apple Pay, credit card, etc.)
+* By far the easiest transit system of the whole trip. You can get a Compass Card, or simply use any contactless payment option (Apple Pay, credit card, etc.)
 * Transit from Twassawen Ferry terminal into the city was a short journey:
-  * 35 minute bus ride via the 620 (Bridgeport Express) to Bridgeport Station (metro). Traffic made this closer to an hour.
+  * 35 minute bus ride via the 620 Bridgeport Express to Bridgeport Station (metro). Traffic made this closer to an hour.
   * 20 minute train ride on the Canada Line (metro)
   * 15 minute walk (or short bus ride) to final destination
-* Transit from city center to the airport was astonishingly quick and easy. Just hopped on the Canada Line, straight to the airport.
+* Transit from city center to the airport was quick and easy. Simply hopped on the Canada Line.
 
 # Accomodations
 
 I was lucky to be hosted by friends in Seattle and Vancouver.
 
 #### Victoria: [Ocean Island Hostel](https://www.oceanisland.com/)
-* I stayed in a private double room. I also looked at Airbnbs, but they were out of the walkable downtown area.
-* I've stayed in hostels all over Europe and Asia. I think they are a great, affordable option, of course with tradeoffs. I recommend always reading reviews on aspects that matter most to you (cleanliness, sound, etc.)
-* Had some initial concerns on the area, but upon arrival, it felt completely safe. There's a known homeless encampment a block away on Pandora and Quandra. I have lived in major cities, and do not believe that homeless communities directly equate to danger. Of course it's important to still be mindful, especially after dark.
+* I stayed in a private double room. I also looked at Airbnbs, but they were not downtown.
+* I've stayed in hostels all over Europe and Asia. They're a great, affordable option, of course with tradeoffs. I recommend reading reviews on aspects that matter most to you (cleanliness, etc.)
+* Had some initial concerns on the area, but upon arrival, it felt completely safe. There's a homeless encampment nearby on Pandora and Quandra. I have lived in major cities, and do not believe that homeless communities directly equate to danger. Of course it's important to still be mindful, especially after dark.
 * The older building has little sound insulation, but I had no problem sleeping with earplugs.
-* The hostel includes a simple breakfast and dinner. The dinners had 2 options each time, such as chili, dahl, and chickpea curry. It was simple and yummy!
+* The hostel includes a simple breakfast and dinner. The dinners had 2 options each time, such as chili, dahl, and chickpea curry. It was actually quite good!
 * There were many different ages of people staying here which I loved seeing.
 
 # Costs
@@ -169,9 +168,9 @@ Not included: gifts, meals, shopping
 
 I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver.  I also loved learning about Canadian history and politics. 
 
-I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along this trip. It was special to grow these friendships and see my friends' lives. 
+I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships and see my friends' day to day lives. 
 
-I visited Seattle to see if I can imagine living myself there, and I definitely can. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
+I visited Seattle to see if I can imagine living there, and I definitely can. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
 
 <br>
 *AI transparency:* I inputted my bullet-pointed notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then heavily edited the output to change content, add details, and write in my own voice.
