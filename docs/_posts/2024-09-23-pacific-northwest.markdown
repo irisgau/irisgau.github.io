@@ -8,34 +8,35 @@ categories: travel
 # Seattle (5 days): Food, Friends, and Adventure
 
 **Friday:**
-* Lunch at Ginger & Scallion: I started the trip with a fantastic chicken rice meal at Ginger & Scallion. Highly recommend!
+* Arrival: Immediately after landing, I noticed the diversity of the people and languages I heard at the airport. It only took an easy and affordable train ride to get into the city. It was a good start!
+* Dinner at [Ginger & Scallion](https://maps.app.goo.gl/Qcgmcxf2Dfg27Pvr6): Shortly after meeting with my friend, we went to Ginger & Scallion for hainanese chicken rice. Highly recommend!
 
 **Saturday:**
-* Dimsum at Harbor City Restaurant: Classic dim sum experience, just what I needed to kick off a busy day.
-* REI Visit: Stocked up on gear for the upcoming hike.
-Catch-up with an Old Coworker: Spent time with my former coworker and his family at an indoor kids' playground, then grabbed a quick dinner at Café Hagen.
-* Swing Dance Class in Fremont: Took a fun swing dance class with SCT in Fremont in the evening.
+* Dimsum at [Harbor City Restaurant](https://maps.app.goo.gl/XzMyyi9RqqnMnx2R8): Classic dim sum experience, the perfect start to the day.
+* REI: Bought some gear for our upcoming hike. The REI flagship store was huge and beautiful.
+* Catch-up: Spent time with my former coworker and his family at an indoor kids' playground, then grabbed a quick dinner at [Café Hagen](https://maps.app.goo.gl/oZLkCwTYP3EwZ3rH8).
+* [Swing Dance Class](https://www.swingdancesct.com/) in Fremont: Took a fun swing dance class in Fremont in the evening.
 
 **Sunday: Hiking Day at Mt. Rainier**
 * Early Start: Left for Mt. Rainier at 6am and got there with no line
-* Hike: Hiked part of the Skyline loop and returned via the Alta Vista trail, covering around 5-6 miles. The Alta Vista trail was our favorite part—absolutely beautiful.
-* Lunch: Chili dog at the visitor center post-hike hit the spot.
-* Dinner: Had a delicious Seolleongtang (ox bone soup) at Yi's Traditional Korean Beef Soup to end the day.
+* Hike: Hiked part of the Skyline loop and returned via the Alta Vista trail, covering around 5-6 miles. The Alta Vista trail was our favorite part. Absolutely beautiful.
+* Lunch: My friend packed ramen and hot water for a post-hike meal. It was so delicious but my weak spice tolerance led me to getting a chili dog at the visitor center. 10/10.
+* Dinner: Had a delicious Seolleongtang (ox bone soup) at [Yi's Traditional Korean Beef Soup](https://maps.app.goo.gl/Ds2mMQ3x1eib6ZRc7) to end the day.
 
 ![Mt. Rainier](/assets/images/2024-09-23-pacific-northwest/mt-rainier-1.jpeg){: height="400" }
 ![Mt. Rainier](/assets/images/2024-09-23-pacific-northwest/mt-rainier-2.jpeg){: height="400" }
 
 **Monday: Classic Seattle Tourist Day**
-* Pike Place Market: Bought a gorgeous bouquet of flowers.
-* Bill Speidel's Underground Tour: Fun and educational.
+* Pike Place Market: Walked around the market and window-shopped in the area.
+* Bill Speidel's Underground Tour: Fun and educational. Learned about the history of Seattle and structure of the city.
 * Chinatown Visit: Explored this vibrant area.
-* Dinner with Will: Surprisingly, downtown felt safer than expected!
+* Dinner: Met with an old friend who I interned with, who shared about his experience living in Seattle for the past several years. Walking around downtown in the evening felt safer than expected.
 
 **Tuesday: Neighborhood Hopping**
 * Queen Anne: Stopped by Kerrie Park for an amazing view.
-* Fremont: Wandered around the Wonderland Gear Exchange and Fremont Vintage Mall.
-* Green Lake: Took a bus there just as school let out—loved seeing the diverse group of middle schoolers on board.
-* Dinner: Had an incredible meal at Kedai Makan in Capitol Hill, including a creamy, vegan coconut milkshake.
+* Fremont: Wandered around, making stops at Wonderland Gear Exchange and Fremont Vintage Mall.
+* Green Lake: Took a bus there just as school let out. It warmed my heart to see the diversity of middle schoolers on board.
+* Dinner: Had an incredible meal at [Kedai Makan](https://maps.app.goo.gl/7YYo4RdN3yhEkKgo8) in Capitol Hill, and a wonderful catch-up with a college friend. The creamy, vegan coconut milkshake is a must.
 
 **Wednesday: Ferry Ride to Victoria**
 * Morning Ferry: Enjoyed the scenic ride as I made my way to Canada.
@@ -43,9 +44,9 @@ Catch-up with an Old Coworker: Spent time with my former coworker and his family
 # Victoria (2 days): Gardens, Museums, and City Charm
 
 **Wednesday: Arrival in Victoria**
-* Immigration Hiccup: A bit of a negative encounter with the officer, but I made it through.
-* Uber to Hostel: Chose Uber over the bus after the stressful experience, but had a lovely driver who suggested I visit Whistler.
-* Explored the Area: Checked out thrift shops around Ocean Island Hostel and snagged a jacket and purse.
+* Immigration: A bit of a negative encounter with the officer who managed to man-splain to me the "dangers" of staying in a hostel and questioned how I could financially sustain this trip if I was unemployed, but I made it through.
+* Uber to Hostel: Chose Uber over the bus after the officier instilled in me I was going to "the most dangerous part of the city", but had a lovely driver who assured me I was fine.
+* Explored the area: Checked out thrift shops around Ocean Island Hostel and snagged some good fines.
 * Walk to Inner Harbour: Strolled through the scenic inner harbor and stopped by the Legislative Assembly.
 * Beacon Hill Park & Chinatown: Took in the greenery and the charm of Victoria’s Chinatown.
 * Hostel Dinner & Conversations: Enjoyed a meal at the hostel and had an insightful chat with Owen, a fellow traveler from Calgary, who’s passionate about city planning.
