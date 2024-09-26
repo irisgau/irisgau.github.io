@@ -105,4 +105,4 @@ Green Island (綠島, pinyin: Lǜ dǎo), also known as Ludao or Lyudao, is a hid
 This was such an amazing trip, and the perfect way to close out my time living abroad in Taiwan. We almost didn't want to leave.
 
 <br>
-*AI transparency:* I inputted my bullet-pointed notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then heavily edited the output to change content, add details, and write it in my own voice.
+*AI transparency:* I inputted my trip notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then heavily edited the output to change content, add details, and write it in my own voice.
