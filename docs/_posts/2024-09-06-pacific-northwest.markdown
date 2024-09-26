@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11 Days in the Pacific Northwest: Seattle, Victoria, Vancouver"
-date:   2024-09-23 11:30 -0700
+date:   2024-09-6
 categories: travel
 ---
 
@@ -141,7 +141,7 @@ I was lucky to be hosted by friends in Seattle and Vancouver.
 
 # Costs
 
-| Travel | Cost (USD) |
+| Travel Expense | Cost (USD) |
 | ----------- | ----------- |
 | Flight from Santa Barbara to Seattle | 15k miles, plus $5.60 |
 | Ferry from Seattle to Victoria | $102.70 | 
@@ -154,7 +154,7 @@ I was lucky to be hosted by friends in Seattle and Vancouver.
 | Vancouver public transit | $18.66 |
 | Ubers (3 in total) | $57.21 |
 
-| Entertainment | Cost (USD) |
+| Entertainment Expense | Cost (USD) |
 | ----------- | ----------- |
 | Seattle Underground Tour | $22 |
 | Butchart Gardens Entry | $30.60 |
