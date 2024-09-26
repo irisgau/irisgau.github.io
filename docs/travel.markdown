@@ -4,7 +4,7 @@ title: Travel
 permalink: /travel/
 ---
 
-I have quite a poor memory when it comes to travel, which feels especially unfortunate since exploring new places is something I truly love. I've been fortunate enough to visit many places in my lifetime. To capture those experiences, I’ve started writing travel blogs. Not only does it help me preserve those memories, but if it can inspire or help others in planning their own adventures, all the better.
+I have quite a poor memory when it comes to travel, which is especially unideal because exploring new places is something I truly love. To capture these experiences, I’ve started writing travel blogs. Not only does it help me preserve the feelings and memories, but if it can inspire or help others in planning their own adventures, all the better.
 
 <ul class="post-list">
   {% for post in site.posts %}
