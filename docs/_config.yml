@@ -28,6 +28,8 @@ url: "https://irisgau.com" # the base hostname & protocol for your site, e.g. ht
 github_username: irisgau
 linkedin_username: irisgau
 
+google_analytics: G-0W7PM5BGVM
+
 # Build settings
 theme: minima
 permalink: none
