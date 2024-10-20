@@ -5,7 +5,6 @@ date:   2024-6-19
 categories: travel
 ---
 
-
 [Green Island](https://maps.app.goo.gl/7ck3ByaN1jYE6W756)  (綠島, pinyin: Lǜ dǎo), also known as Ludao or Lyudao, is a hidden gem off the southeast coast of Taiwan. I was amazed by its natural beauty and warm hospitality. It's a completely different experience than the main island of Taiwan, especially the big cities, and I highly recommend a visit. I planned this trip just a couple weeks prior, with a friend I had met through a scholarship program. Here's a recap of our 3 days on the island!
 
 ![Green Island](/assets/images/2024-06-24-green-island/Green Island.jpeg)
@@ -84,12 +83,9 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 
 # Map
 
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X_9L9mpAX4UNTMsfkktbIy5jGh66OKo&ehbc=2E312F&noprof=1" width="100%" height="400">
-  </iframe>
-
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X_9L9mpAX4UNTMsfkktbIy5jGh66OKo&ehbc=2E312F&noprof=1" width="100%" height="400"></iframe>
 
 Save the [map](https://www.google.com/maps/d/u/0/edit?mid=1X_9L9mpAX4UNTMsfkktbIy5jGh66OKo&usp=sharing) of all the food we ate and spots we went to.
-
 
 # Transportation
 #### Taitung
