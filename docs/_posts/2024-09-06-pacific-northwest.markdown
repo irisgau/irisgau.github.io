@@ -39,8 +39,10 @@ categories: travel
 * Lunch: My friend packed ramen and hot water for a post-hike meal. It was delicious but my weak spice tolerance led me to buy a chili dog at the visitor center. 10/10.
 * Dinner: Seolleongtang (ox bone soup) at [Yi's Traditional Korean Beef Soup](https://maps.app.goo.gl/Ds2mMQ3x1eib6ZRc7) was the perfect way to end the day.
 
+{:refdef: style="text-align: center;"}
 ![Mt. Rainier](/assets/images/2024-09-23-pacific-northwest/mt-rainier-1.jpeg){: height="400" }
 ![Mt. Rainier](/assets/images/2024-09-23-pacific-northwest/mt-rainier-2.jpeg){: height="400" }
+{: refdef}
 
 **Monday: Tourist Day**
 * Pike Place Market: Walked around the market and window-shopped in the area.
@@ -141,7 +143,7 @@ I was lucky to be hosted by friends in Seattle and Vancouver.
 
 # Costs
 
-| Travel Expense | Cost (USD) |
+| Travel | Cost (USD) |
 | ----------- | ----------- |
 | Flight from Santa Barbara to Seattle | 15k miles, plus $5.60 |
 | Ferry from Seattle to Victoria | $102.70 | 
@@ -153,14 +155,21 @@ I was lucky to be hosted by friends in Seattle and Vancouver.
 | Victoria public transit | $7.38 |
 | Vancouver public transit | $18.66 |
 | Ubers (3 in total) | $57.21 |
+| TOTAL | $468.48 |
 
-| Entertainment Expense | Cost (USD) |
+| Entertainment | Cost (USD) |
 | ----------- | ----------- |
 | Seattle Underground Tour | $22 |
 | Butchart Gardens Entry | $30.60 |
 | Royal BC Museum Entry | $22.08 |
+| TOTAL | $74.68 |
 
-**Total: $543.16 plus 30k miles (equivalent to ~$360)**
+
+| Other | Cost (USD) |
+| ----------- | ----------- |
+| Food | $398.18 |
+
+**Total: $953.24 plus 30k miles (equivalent to ~$360)**
 
 Not included: gifts, meals, shopping
 
