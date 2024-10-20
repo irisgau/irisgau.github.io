@@ -171,6 +171,3 @@ I loved this trip. The amount of time spent in each city was perfect. Everything
 I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships and see my friends' day to day lives.
 
 I visited Seattle to see if I can imagine living there, and I definitely can. This last-minute trip booked just a couple weeks prior, turned into a wonderful 11 days.
-
-<br>
-*AI transparency:* I inputted my trip notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then heavily edited the output to change content, add details, and write it in my own voice.

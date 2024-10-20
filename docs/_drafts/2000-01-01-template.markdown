@@ -43,7 +43,3 @@ categories: travel
 | **TOTAL**	| **$100.00** |
 
 # Overall thoughts
-
-
-<br>
-*AI transparency:* I inputted my trip notes into ChatGPT with the following prompt: *write this into an easy-to-read and organized blog post*. I used the structure as a starting point, then heavily edited the output to change content, add details, and write it in my own voice.
