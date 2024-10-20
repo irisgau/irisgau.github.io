@@ -25,7 +25,7 @@ categories: travel
 # Day 1: Arrival in Taitung
 To get to Green Island from Taipei, you can either fly directly, or take a ferry from the southeast city of Taitung. We decided to go from Taipei to Taitung to Green Island.
 * Transit: Like most transit in Taiwan, the journey from Taipei Main Station to Taitung was extremely convenient. The train ride took about 4.5 hours, but went by fast.
-* Stay: We splurged on a nicer stay at the [Gaya Hotel](https://www.gaya-hotels.com/en/), which had a great deal on [Agoda](https://www.agoda.com/) ($130.75 USD for one night).
+* Stay: We splurged on a nicer stay at the [Gaya Hotel](https://www.gaya-hotels.com/en/), which had a good deal on [Agoda](https://www.agoda.com/) ($130.75 USD for one night).
 * Exploring Taitung: After settling in, we walked to Haibin Park, a rocky beach. Taitung is more of a driving/scootering city; there were few other pedestrians on the 20 minute walk there. 
 * Dinner: Delicious noodles from [老東台米台目](https://maps.app.goo.gl/8WGbUMY9b5W1M9go8).
 * Night swim: I booked the Gaya Hotel specifically romanticizing an evening dip, and the rooftop infinity pool did not disappoint.
@@ -112,9 +112,10 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 
 #### Green Island
 * Ferry to Green Island
-  * I booked my round-trip ferry ticket on [Klook](https://www.klook.com/en-US/activity/11080-green-island-round-trip-ferry-tickets-taitung/). I did not choose the additional options. The ride was approximately 1 hour.
+  * I booked my round-trip ferry ticket on [Klook](https://www.klook.com/en-US/activity/11080-green-island-round-trip-ferry-tickets-taitung/) (I did not choose any additional options). The ride is approximately 1 hour.
   * We were warned in advance of seasickness on the boat ride (varying with weather) and were encouraged to take seasickness pills before the ride. While I usually don't get seasick, I took a pill just in case, and had no issues. 
-  * An alternate route is flying, which I didn't look much into. Bad weather can impact all forms of travel.
+  * An alternate route is flying, which I didn't look much into.
+  * Bad weather can impact all forms of travel, so be aware during typhoon season. We went in June, which is near the beginning of typhoon season, and got great weather.
 * Transportation on the island
   * There are no rental cars or buses, so renting a motorcycle/scooter is the way to go.
   * While you can book on your own, most accomodations will help you book your rental. 
@@ -154,4 +155,4 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 
 # Overall thoughts
 
-This trip was the perfect way to close out my time living abroad in Taiwan. The midnight scooter ride back from [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) truly felt like being the main character in a coming-of-age movie. 3 days, 2 nights on the island was the perfect amount of time to me, though I could definitely imagine extending the trip to fit in more snorkeling/scuba diving (which is highly recommended but we didn't do) or go at a slower pace. I hope everyone gets a chance to experience this beautiful part of Taiwan!
+This trip was the perfect way to close out my time living abroad in Taiwan. The midnight scooter ride back from [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) truly felt like being the main character in a coming-of-age movie. 3 days, 2 nights on the island was the perfect amount of time to me, though I could definitely imagine extending the trip to fit in more snorkeling/scuba diving (which is highly recommended but we didn't do) or go at a slower pace. I'm also grateful we got so lucky with great weather -- didn't rain a single drop until we were literally riding our scooters back the final morning. I hope everyone gets a chance to experience this beautiful part of Taiwan!
