@@ -23,7 +23,7 @@ categories: travel
 [Overall Thoughts](#overall-thoughts)
 
 # Day 1: Arrival in Taitung
-
+To get to Green Island from Taipei, you can either fly directly, or take a ferry from the southeast city of Taitung. We decided to go from Taipei to Taitung to Green Island.
 * Transit: Like most transit in Taiwan, the journey from Taipei Main Station to Taitung was extremely convenient. The train ride took about 4.5 hours, but went by fast.
 * Stay: We splurged on a nicer stay at the [Gaya Hotel](https://www.gaya-hotels.com/en/), which had a great deal on [Agoda](https://www.agoda.com/) ($130.75 USD for one night).
 * Exploring Taitung: After settling in, we walked to Haibin Park, a rocky beach. Taitung is more of a driving/scootering city; there were few other pedestrians on the 20 minute walk there. 
