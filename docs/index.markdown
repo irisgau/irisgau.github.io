@@ -12,9 +12,11 @@ I find joy in traveling, dancing, and learning new things. I find peace when coo
 I'm excited you're here!
 
 <br>
-![Mt. Rainier](/assets/images/about/me-1.jpeg){: height="243" }
-![Mt. Rainier](/assets/images/about/me-2.jpeg){: height="243" }
-![Mt. Rainier](/assets/images/about/me-3.jpeg){: height="243" }
+
+{: .post-image-grouping}
+![Iris 1](/assets/images/about/me-1.jpeg){: height="241" }
+![Iris 2](/assets/images/about/me-2.jpeg){: height="241" }
+![Iris 3](/assets/images/about/me-3.jpeg){: height="241" }
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

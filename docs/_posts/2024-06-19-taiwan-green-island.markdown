@@ -30,11 +30,10 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Dinner: Delicious noodles from [老東台米台目](https://maps.app.goo.gl/8WGbUMY9b5W1M9go8).
 * Night swim: I booked the Gaya Hotel specifically romanticizing an evening dip, and the rooftop infinity pool did not disappoint.
 
-{:refdef: style="text-align: center;"}
-![Gaya Hotel View](/assets/images/2024-06-24-green-island/Gaya Hotel View.jpeg){: height="275" }
-![Gaya Hotel Elevator](/assets/images/2024-06-24-green-island/Gaya Hotel Elevator.jpeg){: height="275" }
-![Noodles](/assets/images/2024-06-24-green-island/Noodles.jpeg){: height="275" }
-{: refdef}
+{: .post-image-grouping}
+![Gaya Hotel View](/assets/images/2024-06-24-green-island/Gaya Hotel View.jpeg){: .post-image }
+![Gaya Hotel Elevator](/assets/images/2024-06-24-green-island/Gaya Hotel Elevator.jpeg){: .post-image }
+![Noodles](/assets/images/2024-06-24-green-island/Noodles.jpeg){: .post-image }
 
 # Day 2: Half Day on Green Island
 * Breakfast: The hotel breakfast was great, with a variety of western and eastern options.
@@ -42,9 +41,8 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Arriving at [Nan Liao Harbour](https://maps.app.goo.gl/sTQVUZvR3uJ67rpJ6): We arrived around 11am. The owners of our hotel picked us up and guided us through renting scooters. This was the biggest unknown when planning the trip, unsure how it'd work without an international license -- it turns out we could rent electric scooters, which were easy and safe to ride.
 * Check-in: We checked into [Hai Yin Hotel](https://maps.app.goo.gl/bY8DsCUmwovFhLc48) (which translates to "ocean sound"), where the 老闆娘 (lǎo bǎn niáng = female boss, or boss's wife) walked us through the island's landmarks.
 
-{:refdef: style="text-align: center;"}
-![Green Island Map](/assets/images/2024-06-24-green-island/Green Island Map.jpeg){: height="275" }
-{: refdef}
+{: .post-image-grouping}
+![Green Island Map](/assets/images/2024-06-24-green-island/Green Island Map.jpeg){: .post-image }
 
 * Exploring: We practiced a bit on the scooters, before stopping at landmarks like [Niu tou shan 牛頭山 (Cow Head Mountain)](https://maps.app.goo.gl/F45EpWFYLXgEsEeW7) and the [White Terror Memorial Park](https://maps.app.goo.gl/37d6qB6HTpcBF9fK6) (this a big topic to dive into, but essentially it used to be a prison for political prisoners).
 * Lunch: We learned that most restaurants are closed between meals on the island, but managed to find yummy pasta at [富富廚房fufukitchen](https://maps.app.goo.gl/jhh82QMVUTUcLUhTA).
@@ -53,20 +51,18 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Dinner: We enjoyed a seafood meal at [林家麵飯小吃](https://maps.app.goo.gl/L1fieGTgtr14Rdt27) followed by mango shaved ice at [憲冰隊](https://maps.app.goo.gl/V35JPR97HRnbjkXy6 ). Oddly, the island has several jail-themed dessert shops due to the presence of an active jail on the island (different than the White Terror historical prison).
 * Stargazing: At night, we rode up to the hill above [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) to stargaze. Even with the full moon, we saw more stars than I'd ever seen in my life. It was breathtaking. The scooter ride back, with the cool breeze and sound of the ocean, felt like something out of a movie.
 
-{:refdef: style="text-align: center;"}
-![Scooter](/assets/images/2024-06-24-green-island/Scooter.jpeg){: height="275" }
-![Wuyouku](/assets/images/2024-06-24-green-island/Wuyouku.jpeg){: height="275" }
-![Night View](/assets/images/2024-06-24-green-island/Night.jpeg){: height="275" }
-{: refdef}
+{: .post-image-grouping}
+![Scooter](/assets/images/2024-06-24-green-island/Scooter.jpeg){: .post-image }
+![Wuyouku](/assets/images/2024-06-24-green-island/Wuyouku.jpeg){: .post-image }
+![Night View](/assets/images/2024-06-24-green-island/Night.jpeg){: .post-image }
 
 # Day 3: Full Day on Green Island
 * Breakfast: Taiwanese breakfast sandwiches at [小阿姨早餐店](https://maps.app.goo.gl/qGGj7t9gYfahUsS36 ).
 * Blue Cave: We went on another guided snorkel, this time to [Blue Cave](https://maps.app.goo.gl/o3Mx446U4QyqnBx7A), a mesmerizing spot with vibrant, blue waters. We almost chickened out, but also both cliff jumped! The guide took group photos of us like this 😂
 
-{:refdef: style="text-align: center;"}
-![Blue Cave Fish](/assets/images/2024-06-24-green-island/Blue Cave Fish.jpeg){: height="275" }
-![Blue Cave Group](/assets/images/2024-06-24-green-island/Blue Cave Group.jpeg){: height="275" }
-{: refdef}
+{: .post-image-grouping}
+![Blue Cave Fish](/assets/images/2024-06-24-green-island/Blue Cave Fish.jpeg){: .post-image }
+![Blue Cave Group](/assets/images/2024-06-24-green-island/Blue Cave Group.jpeg){: .post-image }
 
 * Lunch: Beef noodle soup at [阿牛牛肉麵](https://maps.app.goo.gl/LyagtMZb3u64DkcPA).
 * Circling the island: We circled the island on our scooters, stopping at natural formations like [Sleeping Beauty Rock](https://maps.app.goo.gl/Jfzk1wkMrTeQHcQi7) and her neighbor, [Pekingese Dog Rock](https://maps.app.goo.gl/ksPDiV56Jk4WoGTs6). The view from [Little Great Wall](https://maps.app.goo.gl/CKSJXg6ioMwvdTcFA) was stunning. The ride around the full island takes about an hour without stops.
@@ -76,11 +72,9 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Hot Springs: We ended the day with a soak in the [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9), which is prided as one of the three salt water springs on earth.
 * Night cap: Another round of mango shaved ice, this time from [綠島大街冰館](https://maps.app.goo.gl/xKzaXsXvad98SFCZ7). This strip of restaurants and dessert spots was conveniently walking distance from our hotel.
 
-{:refdef: style="text-align: center;"}
-![Da Bai Shan](/assets/images/2024-06-24-green-island/Da Bai Shan.jpeg){: height="250" }
-![Lighthouse](/assets/images/2024-06-24-green-island/Lighthouse.jpeg){: height="250" }
-{: refdef}
-
+{: .post-image-grouping}
+![Da Bai Shan](/assets/images/2024-06-24-green-island/Da Bai Shan.jpeg){: .post-image }
+![Lighthouse](/assets/images/2024-06-24-green-island/Lighthouse.jpeg){: .post-image }
 
 # Day 4: Return to Taipei
 * Morning: Took a final spin on the scooter before packing up and heading to the harbor.
