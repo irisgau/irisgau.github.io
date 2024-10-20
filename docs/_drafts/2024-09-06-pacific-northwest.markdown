@@ -155,14 +155,14 @@ I was lucky to be hosted by friends in Seattle and Vancouver.
 | Victoria public transit | $7.38 |
 | Vancouver public transit | $18.66 |
 | Ubers (3 in total) | $57.21 |
-| TOTAL | $468.48 |
+| **TOTAL** | **$468.48** |
 
 | Entertainment | Cost (USD) |
 | ----------- | ----------- |
 | Seattle Underground Tour | $22 |
 | Butchart Gardens Entry | $30.60 |
 | Royal BC Museum Entry | $22.08 |
-| TOTAL | $74.68 |
+| **TOTAL** | **$74.68** |
 
 
 | Other | Cost (USD) |
@@ -171,11 +171,9 @@ I was lucky to be hosted by friends in Seattle and Vancouver.
 
 **Total: $953.24 plus 30k miles (equivalent to ~$360)**
 
-Not included: gifts, meals, shopping
-
 # Overall thoughts
 
-I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver.  I also loved learning about Canadian history and politics. 
+I loved this trip. The amount of time spent in each city was perfect. Everything I ate somehow tasted better than it normally does, especially true in Vancouver.  I also learned a lot about Canadian history and politics through conversations with my friends and at the hostel. 
 
 I am grateful for the relationships I have formed over the years, that led to friends generously hosting me and many catch-ups along the way. It was special to deepen these friendships and see my friends' day to day lives.
 

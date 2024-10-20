@@ -6,7 +6,7 @@ categories: travel
 ---
 
 
-[Green Island (綠島, pinyin: Lǜ dǎo)](https://maps.app.goo.gl/7ck3ByaN1jYE6W756), also known as Ludao or Lyudao, is a hidden gem off the southeast coast of Taiwan. I was amazed by its natural beauty and the warm hospitability I experienced. It's a completely different experience than the main island of Taiwan, especially the big city of Taipei, and I highly recommend a visit. I planned this trip just a couple weeks prior, with a friend I had met through a scholarship program. Here's a recap of my 3 days on the island!
+[Green Island (綠島, pinyin: Lǜ dǎo)](https://maps.app.goo.gl/7ck3ByaN1jYE6W756), also known as Ludao or Lyudao, is a hidden gem off the southeast coast of Taiwan. I was amazed by its natural beauty and the warm hospitability from the people there. It's a completely different experience than the main island of Taiwan, especially the big city of Taipei, and I highly recommend a visit. I planned this trip just a couple weeks prior, with a friend I had met through a scholarship program. Here's a recap of my 3 days on the island!
 
 ![Green Island](/assets/images/2024-06-24-green-island/Green Island.jpeg)
 
