@@ -89,7 +89,7 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
   * Wear your helmet! Police were actively fining people (mostly locals) riding motorcycles/scooters without one.
 * Cash
   * Bring plenty of cash with you onto the island -- most places won't accept card.
-  * I read that there's an ATM on the island but we never needed it.
+  * There's an ATM on the island that, according to the internet, doesn't accept foreign cards
 * Swim caps
   * Swim caps are required at the Gaya Hotel pool and Zhaori Hotsprings, which is a cultural norm in Taiwan.
   * At the hotel, no one seemed to check. At the hotsprings, they checked, and sold cheap ones at the entrance.
