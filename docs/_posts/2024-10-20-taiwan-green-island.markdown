@@ -21,9 +21,9 @@ categories: travel
 
 [Must-Dos](#must-dos)
 
-[Costs](#costs)
+[Cost Breakdown](#cost-breakdown)
 
-[Parting Thoughts](#parting-thoughts)
+[Final Reflections](#final-reflections)
 
 # Day 1: Arrival in Taitung
 To get to Green Island from Taipei, you can either fly directly, or take a ferry from the southeast city of Taitung. We decided to go from Taipei to Taitung to Green Island.
@@ -154,7 +154,7 @@ Save the [map](https://www.google.com/maps/d/u/0/edit?mid=1X_9L9mpAX4UNTMsfkktbI
 * Indulge in mango shaved ice 🥭🍧🤤
 * Stargaze on the hill above Zhaori Hotsprings 🌌
 
-# Costs (per person)
+# Cost Breakdown (per person)
 
 | Expense | Cost (USD) |
 | ----------- | ----------- |
@@ -173,7 +173,7 @@ Save the [map](https://www.google.com/maps/d/u/0/edit?mid=1X_9L9mpAX4UNTMsfkktbI
 | Meals	| $44.46 |
 | **TOTAL**	| **$354.32** |
 
-# Parting Thoughts
+# Final Reflections
 
 This trip was the perfect way to close out my time living abroad in Taiwan. The midnight scooter ride back from [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) truly felt like being the main character in a coming-of-age movie. 3 days, 2 nights on the island was the perfect amount of time to me, though I could definitely imagine extending the trip to fit in more time in the ocean or go at a slower pace. I'm also grateful we got so lucky with great weather -- didn't rain a single drop until we were literally riding our scooters back the final morning. I hope everyone gets a chance to experience this beautiful part of Taiwan!
 
