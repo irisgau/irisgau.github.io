@@ -21,7 +21,7 @@ categories: travel
 
 [Must-Dos](#must-dos)
 
-[Cost Breakdown](#cost-breakdown)
+[Cost Breakdown](#cost-breakdown-per-person)
 
 [Final Reflections](#final-reflections)
 
