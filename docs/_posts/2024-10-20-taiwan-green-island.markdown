@@ -51,12 +51,17 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Lunch: We learned that most restaurants are closed between meals on the island, but managed to find yummy pasta at [富富廚房fufukitchen](https://maps.app.goo.gl/jhh82QMVUTUcLUhTA).
 * A serene dip: We took in the views from the [lighthouse](https://maps.app.goo.gl/CuwEbH6AS8KJP6af7) and swam in [Wu you ku 烏油窟](https://maps.app.goo.gl/orZ2VUTEk72cb89X7) right below, a naturally formed swimming spot.
 * Snorkeling: We joined a guided snorkel tour in the afternoon, which we booked that morning through the hotel. It was different from snorkeling I've done in the US -- the snorkel areas here are quite rocky, so it's recommended to go with a guided tour. We met at the shop, changed into wetsuits, and all rode to the [Chaikou Snorkeling Area](https://maps.app.goo.gl/yvbaR1jYLN3LQaEc7).
-* Dinner: We enjoyed a seafood meal at [林家麵飯小吃](https://maps.app.goo.gl/L1fieGTgtr14Rdt27) followed by mango shaved ice at [憲冰隊](https://maps.app.goo.gl/V35JPR97HRnbjkXy6 ). Oddly, the island has several jail-themed dessert shops due to the presence of an active jail on the island (different than the White Terror historical prison).
-* Stargazing: At night, we rode up to the hill above [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) to stargaze. Even with the full moon, we saw more stars than I'd ever seen in my life. It was breathtaking. The scooter ride back, with the cool breeze and sound of the ocean, felt like something out of a movie.
 
 {: .post-image-grouping}
 ![Scooter](/assets/images/2024-10-20-green-island/Scooter.jpeg){: .post-image }
 ![Wuyouku](/assets/images/2024-10-20-green-island/Wuyouku.jpeg){: .post-image }
+![Snorkeling](/assets/images/2024-10-20-green-island/Snorkeling.jpeg){: .post-image }
+
+* Dinner: We enjoyed a seafood meal at [林家麵飯小吃](https://maps.app.goo.gl/L1fieGTgtr14Rdt27) followed by mango shaved ice at [憲冰隊](https://maps.app.goo.gl/V35JPR97HRnbjkXy6 ). Oddly, the island has several jail-themed dessert shops due to the presence of an active jail on the island (different than the White Terror historical prison).
+* Stargazing: At night, we rode up to the hill above [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) to stargaze. Even with the full moon, we saw more stars than I'd ever seen in my life. It was breathtaking. The scooter ride back, with the cool breeze and sound of the ocean, felt like something out of a movie.
+
+{: .post-image-grouping}
+![Mango Shaved Ice](/assets/images/2024-10-20-green-island/Mango Shaved Ice.jpeg){: .post-image }
 ![Night View](/assets/images/2024-10-20-green-island/Night.jpeg){: .post-image }
 
 # Day 3: Full Day on Green Island
@@ -69,15 +74,22 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 
 * Lunch: Beef noodle soup at [阿牛牛肉麵](https://maps.app.goo.gl/LyagtMZb3u64DkcPA).
 * Circling the island: We circled the island on our scooters, stopping at natural formations like [Sleeping Beauty Rock](https://maps.app.goo.gl/Jfzk1wkMrTeQHcQi7) and her neighbor, [Pekingese Dog Rock](https://maps.app.goo.gl/ksPDiV56Jk4WoGTs6). The view from [Little Great Wall](https://maps.app.goo.gl/CKSJXg6ioMwvdTcFA) was stunning. The ride around the full island takes about an hour without stops.
+
+{: .post-image-grouping}
+![Little Great Wall](/assets/images/2024-10-20-green-island/Little Great Wall.jpeg){: .post-image }
+![Sleeping Beauty Rock](/assets/images/2024-10-20-green-island/Sleeping Beauty Rock.jpeg){: .post-image }
+
+
 * Beach: At [Da Bai Sha 大白沙](https://maps.app.goo.gl/L8qj4fPSUqgkcMJt6), a white sand beach, we happened to run into one of the hotel workers and had a lovely chat. He's a young guy from the main island of Taiwan who just started working at the hotel to experience change and push himself to meet new people.
 * Sunset: We returned to the lighthouse and watched the sunset.
-* Dinner: Korean takeout from [綠島AJS韓式炸雞店](https://maps.app.goo.gl/zYJWJwEs6CWpQ6q37).
-* Hot Springs: We ended the day with a soak in the [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9), which is prided as one of the three salt water springs on earth.
-* Night cap: Another round of mango shaved ice, this time from [綠島大街冰館](https://maps.app.goo.gl/xKzaXsXvad98SFCZ7). This strip of restaurants and dessert spots was conveniently walking distance from our hotel.
 
 {: .post-image-grouping}
 ![Da Bai Shan](/assets/images/2024-10-20-green-island/Da Bai Shan.jpeg){: .post-image }
 ![Lighthouse](/assets/images/2024-10-20-green-island/Lighthouse.jpeg){: .post-image }
+
+* Dinner: Korean takeout from [綠島AJS韓式炸雞店](https://maps.app.goo.gl/zYJWJwEs6CWpQ6q37).
+* Hot Springs: We ended the day with a soak in the [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9), which is prided as one of the three salt water springs on earth.
+* Night cap: Another round of mango shaved ice, this time from [綠島大街冰館](https://maps.app.goo.gl/xKzaXsXvad98SFCZ7). This strip of restaurants and dessert spots was conveniently walking distance from our hotel.
 
 # Day 4: Return to Taipei
 * Morning: Took a final spin on the scooter before packing up and heading to the harbor.
