@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "3 Days on Taiwan's Green Island"
-date:   2024-6-19
+date:   2024-10-20
 categories: travel
 ---
 
-[Green Island](https://maps.app.goo.gl/7ck3ByaN1jYE6W756)  (綠島, pinyin: Lǜ dǎo), also known as Ludao or Lyudao, is a hidden gem off the southeast coast of Taiwan. I was amazed by its natural beauty and warm hospitality. It's a completely different experience than the main island of Taiwan, especially the big cities, and I highly recommend a visit. I planned this trip just a couple weeks prior, with a friend I had met through a scholarship program. Here's a recap of our 3 days on the island!
+[Green Island](https://maps.app.goo.gl/7ck3ByaN1jYE6W756)  (綠島, pinyin: Lǜ dǎo), also known as Ludao or Lyudao, is a hidden gem off the southeast coast of Taiwan. I was amazed by its natural beauty and warm hospitality. It's a completely different experience than the main island of Taiwan, especially the big cities, and I highly recommend a visit. I planned this trip just a couple weeks prior, and visited in June 2024 with a friend I had met through a scholarship program. Here's a recap of our 3 days on the island!
 
-![Green Island](/assets/images/2024-06-24-green-island/Green Island.jpeg)
+![Green Island](/assets/images/2024-10-20-green-island/Green Island.jpeg)
 
 # Contents
 
@@ -18,6 +18,8 @@ categories: travel
 [Accommodations](#accommodations)
 
 [Travel Tips](#travel-tips)
+
+[Must-Dos](#must-dos)
 
 [Costs](#costs)
 
@@ -32,9 +34,9 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Night swim: I booked the hotel specifically romanticizing an evening dip, and the rooftop infinity pool did not disappoint.
 
 {: .post-image-grouping}
-![Gaya Hotel View](/assets/images/2024-06-24-green-island/Gaya Hotel View.jpeg){: .post-image }
-![Gaya Hotel Elevator](/assets/images/2024-06-24-green-island/Gaya Hotel Elevator.jpeg){: .post-image }
-![Noodles](/assets/images/2024-06-24-green-island/Noodles.jpeg){: .post-image }
+![Gaya Hotel View](/assets/images/2024-10-20-green-island/Gaya Hotel View.jpeg){: .post-image }
+![Gaya Hotel Elevator](/assets/images/2024-10-20-green-island/Gaya Hotel Elevator.jpeg){: .post-image }
+![Noodles](/assets/images/2024-10-20-green-island/Noodles.jpeg){: .post-image }
 
 # Day 2: Half Day on Green Island
 * Breakfast: The hotel breakfast was great, with a variety of western and eastern options.
@@ -43,7 +45,7 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Check-in: We checked into [Hai Yin Hotel](https://maps.app.goo.gl/bY8DsCUmwovFhLc48) (which translates to "ocean sound"), where the 老闆娘 (lǎo bǎn niáng = female boss, or boss's wife) walked us through the island's landmarks.
 
 {: .post-image-grouping}
-![Green Island Map](/assets/images/2024-06-24-green-island/Green Island Map.jpeg){: .post-image }
+![Green Island Map](/assets/images/2024-10-20-green-island/Green Island Map.jpeg){: .post-image }
 
 * Exploring: We practiced a bit on the scooters, before stopping at landmarks like [Niu tou shan 牛頭山 (Cow Head Mountain)](https://maps.app.goo.gl/F45EpWFYLXgEsEeW7) and the [White Terror Memorial Park](https://maps.app.goo.gl/37d6qB6HTpcBF9fK6) (this a big topic to dive into, but essentially it used to be a prison for political prisoners).
 * Lunch: We learned that most restaurants are closed between meals on the island, but managed to find yummy pasta at [富富廚房fufukitchen](https://maps.app.goo.gl/jhh82QMVUTUcLUhTA).
@@ -53,17 +55,17 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Stargazing: At night, we rode up to the hill above [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) to stargaze. Even with the full moon, we saw more stars than I'd ever seen in my life. It was breathtaking. The scooter ride back, with the cool breeze and sound of the ocean, felt like something out of a movie.
 
 {: .post-image-grouping}
-![Scooter](/assets/images/2024-06-24-green-island/Scooter.jpeg){: .post-image }
-![Wuyouku](/assets/images/2024-06-24-green-island/Wuyouku.jpeg){: .post-image }
-![Night View](/assets/images/2024-06-24-green-island/Night.jpeg){: .post-image }
+![Scooter](/assets/images/2024-10-20-green-island/Scooter.jpeg){: .post-image }
+![Wuyouku](/assets/images/2024-10-20-green-island/Wuyouku.jpeg){: .post-image }
+![Night View](/assets/images/2024-10-20-green-island/Night.jpeg){: .post-image }
 
 # Day 3: Full Day on Green Island
 * Breakfast: Taiwanese breakfast sandwiches at [小阿姨早餐店](https://maps.app.goo.gl/qGGj7t9gYfahUsS36 ).
 * Blue Cave: We went on another guided snorkel, this time to [Blue Cave](https://maps.app.goo.gl/o3Mx446U4QyqnBx7A), a mesmerizing spot with vibrant, blue waters. We almost chickened out, but also both cliff jumped! The guide took group photos of us like this 😂
 
 {: .post-image-grouping}
-![Blue Cave Fish](/assets/images/2024-06-24-green-island/Blue Cave Fish.jpeg){: .post-image }
-![Blue Cave Group](/assets/images/2024-06-24-green-island/Blue Cave Group.jpeg){: .post-image }
+![Blue Cave Fish](/assets/images/2024-10-20-green-island/Blue Cave Fish.jpeg){: .post-image }
+![Blue Cave Group](/assets/images/2024-10-20-green-island/Blue Cave Group.jpeg){: .post-image }
 
 * Lunch: Beef noodle soup at [阿牛牛肉麵](https://maps.app.goo.gl/LyagtMZb3u64DkcPA).
 * Circling the island: We circled the island on our scooters, stopping at natural formations like [Sleeping Beauty Rock](https://maps.app.goo.gl/Jfzk1wkMrTeQHcQi7) and her neighbor, [Pekingese Dog Rock](https://maps.app.goo.gl/ksPDiV56Jk4WoGTs6). The view from [Little Great Wall](https://maps.app.goo.gl/CKSJXg6ioMwvdTcFA) was stunning. The ride around the full island takes about an hour without stops.
@@ -74,8 +76,8 @@ To get to Green Island from Taipei, you can either fly directly, or take a ferry
 * Night cap: Another round of mango shaved ice, this time from [綠島大街冰館](https://maps.app.goo.gl/xKzaXsXvad98SFCZ7). This strip of restaurants and dessert spots was conveniently walking distance from our hotel.
 
 {: .post-image-grouping}
-![Da Bai Shan](/assets/images/2024-06-24-green-island/Da Bai Shan.jpeg){: .post-image }
-![Lighthouse](/assets/images/2024-06-24-green-island/Lighthouse.jpeg){: .post-image }
+![Da Bai Shan](/assets/images/2024-10-20-green-island/Da Bai Shan.jpeg){: .post-image }
+![Lighthouse](/assets/images/2024-10-20-green-island/Lighthouse.jpeg){: .post-image }
 
 # Day 4: Return to Taipei
 * Morning: Took a final spin on the scooter before packing up and heading to the harbor.
@@ -134,6 +136,12 @@ Save the [map](https://www.google.com/maps/d/u/0/edit?mid=1X_9L9mpAX4UNTMsfkktbI
   * Swim caps are required at the Gaya Hotel pool and Zhaori Hotsprings, which is a cultural norm in Taiwan.
   * At the hotel, no one seemed to check. At the hotsprings, they checked, and sold cheap ones at the entrance.
 
+# Must-Dos
+* You must loop around the full island at least once! 🛵
+* Go snorkeling 🤿 (scuba diving is also recommended here, which we didn't do this time around)
+* Have mango shaved ice 🥭🍧🤤
+* Stargaze on the hill above Zhaori Hotsprings 🌌
+
 # Costs (per person)
 
 | Expense | Cost (USD) |
@@ -155,7 +163,7 @@ Save the [map](https://www.google.com/maps/d/u/0/edit?mid=1X_9L9mpAX4UNTMsfkktbI
 
 # Parting Thoughts
 
-This trip was the perfect way to close out my time living abroad in Taiwan. The midnight scooter ride back from [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) truly felt like being the main character in a coming-of-age movie. 3 days, 2 nights on the island was the perfect amount of time to me, though I could definitely imagine extending the trip to fit in more snorkeling/scuba diving (which is highly recommended but we didn't do) or go at a slower pace. I'm also grateful we got so lucky with great weather -- didn't rain a single drop until we were literally riding our scooters back the final morning. I hope everyone gets a chance to experience this beautiful part of Taiwan!
+This trip was the perfect way to close out my time living abroad in Taiwan. The midnight scooter ride back from [Zhaori Hot Springs](https://maps.app.goo.gl/LSbor5acL3Qnymjh9) truly felt like being the main character in a coming-of-age movie. 3 days, 2 nights on the island was the perfect amount of time to me, though I could definitely imagine extending the trip to fit in more time in the ocean or go at a slower pace. I'm also grateful we got so lucky with great weather -- didn't rain a single drop until we were literally riding our scooters back the final morning. I hope everyone gets a chance to experience this beautiful part of Taiwan!
 
 
 *Have any questions? The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/irisgau/).*
