@@ -137,9 +137,9 @@ Save the [map](https://www.google.com/maps/d/u/0/edit?mid=1X_9L9mpAX4UNTMsfkktbI
   * At the hotel, no one seemed to check. At the hotsprings, they checked, and sold cheap ones at the entrance.
 
 # Must-Dos
-* You must loop around the full island at least once! 🛵
+* Loop around the full island at least once! 🛵
 * Go snorkeling 🤿 (scuba diving is also recommended here, which we didn't do this time around)
-* Have mango shaved ice 🥭🍧🤤
+* Indulge in mango shaved ice 🥭🍧🤤
 * Stargaze on the hill above Zhaori Hotsprings 🌌
 
 # Costs (per person)
