@@ -1,12 +1,12 @@
 ---
 layout: page
-# title: Thoughts # hide for now
-permalink: /thoughts/
+title: Reflections # hide for now
+permalink: /reflections/
 ---
 
 <ul class="post-list">
   {% for post in site.posts %}
-    {% if post.categories contains "thoughts" %}
+    {% if post.categories contains "reflections" %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
