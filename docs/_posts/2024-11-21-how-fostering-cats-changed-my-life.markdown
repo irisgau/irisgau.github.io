@@ -5,7 +5,7 @@ date:   2024-11-21
 categories: reflections
 ---
 
-When I first decided to foster cats, I thought I’d be giving them a chance at a better life. What I didn’t realize was how much they’d teach me about trust, patience, and resilience in return. Here’s what I’ve learned along the way.
+When I first decided to foster cats, I thought I’d be giving them a chance at a better life. What I didn’t realize was how much they’d teach me in return about trust, patience, and resilience. Here’s what I’ve learned along the way.
 
 # Trust
 Earning the trust of an animal is one of the most rewarding experiences I’ve ever had. Each animal is different and shaped by their unique past. Cissy, my first foster, had been through multiple homes, her last owner having passed away. Despite her journey, she trusted me almost immediately.
