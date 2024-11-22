@@ -64,7 +64,7 @@ Through Cissy, I discovered the world of fostering, and she gave nothing but unc
 
 {: .post-image-grouping}
 ![Cissy Before](/assets/images/2024-11-21-how-fostering-cats-changed-my-life/Cissy-before.jpeg){: .post-image }
-![Cissy After](/assets/images/2024-11-21-how-fostering-cats-changed-my-life/Cissy-after.JPG){: .post-image }
+![Cissy After](/assets/images/2024-11-21-how-fostering-cats-changed-my-life/Cissy-after.jpeg){: .post-image }
 
 *Millie*
 {: style="font-size: 80%; text-align: center;"}
