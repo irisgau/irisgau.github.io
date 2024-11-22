@@ -11,8 +11,6 @@ I find joy in traveling, dancing, and learning new things. I find peace when coo
 
 I'm excited you're here!
 
-<br>
-
 {: .post-image-grouping}
 ![Iris 1](/assets/images/about/me-1.jpeg){: height="241" }
 ![Iris 2](/assets/images/about/me-2.jpeg){: height="241" }
