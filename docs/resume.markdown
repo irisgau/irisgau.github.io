@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+# title: Resume # hide for now
 permalink: /resume/
 ---
 
